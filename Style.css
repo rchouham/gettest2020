@@ -1,10 +1,28 @@
-body {
-    font-family: 'Poppins', sans-serif;
-    fonts-color: #865B9A;
-    background-color: #DFD9E2;
-    color: #535865;
-    padding: 50px;
 
+
+body{
+    font-size: large;
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+    font-weight: lighter;
+    text-transform: uppercase;
+    color: white;
+    background-color: chocolate;
 }
 
-<p font-family: 'Poppins', sans-serif;/p>
+#h1{
+    font-family: "sans-serif", "Arabic Typesetting";
+    size: 30px;
+    font-weight: bold;
+    color: chocolate;
+    margin: 10px
+;
+}
+
+.Auto{
+    background-color:yellow;
+    border:2px solid red;
+    color: green;
+    margin: 20px;
+    padding: 20px;
+    }
